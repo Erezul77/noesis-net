@@ -57,3 +57,6 @@ Follow the signal → [noesis-net.org](https://noesis-net.org)
 ---
 
 **“Many minds. One knowing.”**
+
+
+📣 [View the Noēsis Genesis Launch →](./LAUNCH.md)
